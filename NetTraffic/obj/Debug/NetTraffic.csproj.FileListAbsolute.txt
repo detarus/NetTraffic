@@ -1,0 +1,13 @@
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\bin\Debug\NetTraffic.exe.config
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\bin\Debug\NetTraffic.exe
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\bin\Debug\NetTraffic.pdb
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\obj\Debug\NetTraffic.csprojResolveAssemblyReference.cache
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\obj\Debug\NetTraffic.Properties.Resources.resources
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\obj\Debug\NetTraffic.csproj.GenerateResource.Cache
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\obj\Debug\NetTraffic.exe
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\obj\Debug\NetTraffic.pdb
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\obj\Debug\NetTraffic.Result.resources
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\obj\Debug\NetTraffic.Menu.resources
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\bin\Debug\MySql.Data.dll
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\bin\Debug\MySql.Data.xml
+c:\users\dmitro\documents\visual studio 2015\Projects\NetTraffic\NetTraffic\obj\Debug\NetTraffic.Log.resources
