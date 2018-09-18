@@ -29,4 +29,4 @@
 
 #### As you may expect this programm is using a Data Base to store logged data.
 #### This app is a little bit dirty.
-#### So feel free to add any pull requests or issues and they will be immidiately fixed
+#### So feel free to add any pull requests or issues and they will be immidiately added/fixed
